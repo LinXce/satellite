@@ -6,5 +6,5 @@
 
 # mod使用方法
 
-1. 下载 [Releases](https://github.com/LinXce/merchant-2-cute/releases) 的压缩包 解压到杀戮尖塔2游戏目录下的mods文件夹。
+1. 下载 [Releases] 的压缩包 解压到杀戮尖塔2游戏目录下的mods文件夹。
 2. 如果没有mods文件夹可以手动创建。
