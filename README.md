@@ -1,6 +1,6 @@
 [STS2 mod] 储君辉星旋转mod
 
-本质自用mod，贴合Mesugaki_Regent美化做的。
+本质自用mod，贴合Mesugaki_Regent储君娘化做的。
 添加了一些美化，现在储君的星星会显示出来。
 很简陋的mod，因为就做了两个小时。并且有大佬的美化mod做的非常好。
 
